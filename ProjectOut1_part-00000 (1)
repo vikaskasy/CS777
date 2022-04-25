@@ -1,0 +1,27 @@
+Precision,Recall, Fmeasure of Training Logistic Data
+[0.5611439842209073, 0.717981072555205, 0.6299474121228896]
+Precision,Recall, Fmeasure of Logistic Testing Data
+[0.5825545171339563, 0.6750902527075813, 0.6254180602006689]
+Confusion Matrix
+[[187. 134.]
+ [ 90. 602.]]
+######## SVC precision, recall and fmeasure  ###########################
+[0.7978339350180506, 0.5224586288416075, 0.6314285714285713]
+Confusion Matrix
+DenseMatrix([[534.,  56.],
+             [202., 221.]])
+######## RANDOM FOREST precision, recall and fmeasure  ###########################
+[0.7942238267148014, 0.49107142857142855, 0.6068965517241378]
+Confusion Matrix
+DenseMatrix([[508.,  57.],
+             [228., 220.]])
+######## Gradient Boosting Tree precision, recall and fmeasure  ###########################
+[0.8736462093862816, 0.45149253731343286, 0.5953259532595326]
+Confusion Matrix
+DenseMatrix([[442.,  35.],
+             [294., 242.]])
+######## Naive Bayes precision, recall and fmeasure  ###########################
+[0.7075812274368231, 0.43171806167400884, 0.5362517099863201]
+Confusion Matrix
+DenseMatrix([[478.,  81.],
+             [258., 196.]])
